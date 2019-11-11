@@ -5,7 +5,3 @@ def square_array(array)
  end
 end
 
-while n < array.length()
-   new_array.push(array[n]*array[n])
-    n+=1
-  end
