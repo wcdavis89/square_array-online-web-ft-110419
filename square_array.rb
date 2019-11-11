@@ -1,6 +1,7 @@
 def square_array(array)
   array.each do |num|
-    
+   quo= array[num]*array[num]
+   
 end
 
 while n < array.length()
